@@ -1,0 +1,10 @@
+方法一：
+通过cd进入目标文件所在的文件夹，输入指令
+例如 python -m PyQt5.uic.pyuic demo.ui -o demo.py
+
+方法二：
+直接用oyuic5方法
+pyuic5 demo.ui -o demo.py
+
+方法三：
+加入扩展工具中PyUIC
